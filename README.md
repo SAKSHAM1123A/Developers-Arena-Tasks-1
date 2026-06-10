@@ -13,4 +13,4 @@ A beginner-friendly Python program that collects user information and displays a
 ## How to Run
 
 ```bash
-python main.py
+python personal_intro.py
